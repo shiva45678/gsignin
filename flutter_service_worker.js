@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "48c68d6c6987c02eb5652e8c609b2aa3",
+const RESOURCES = {"flutter_bootstrap.js": "31f8ca59ed80b0196863bb70d75cc5af",
 "version.json": "92ca8a37b2050e268690175bc150a7ad",
 "index.html": "df00b624d6ec9fb8f9a079eb96a0346c",
 "/": "df00b624d6ec9fb8f9a079eb96a0346c",
-"main.dart.js": "b3fb62ad5de46dba76d3636179b44484",
+"main.dart.js": "826d47b32feddba811107c168d8b56c6",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
 "favicon.png": "6a1428a8d51efbb04f3e0cb5767236f9",
 "icons/Icon-192.png": "d2a675845568fe98a1b2e53d3cf71c7e",
@@ -41,7 +41,7 @@ const RESOURCES = {"flutter_bootstrap.js": "48c68d6c6987c02eb5652e8c609b2aa3",
 "assets/packages/nb_utils/assets/lottie/typing.json": "e5cad2457b51962714dfde13e0931a9d",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "44336ee6664a6653a07c66fd443df5b9",
-"assets/fonts/MaterialIcons-Regular.otf": "3a555049993ce563c80ad768f25f37d0",
+"assets/fonts/MaterialIcons-Regular.otf": "4bcc86580e858e0791bad6688a9aab12",
 "assets/assets/images/dog.png": "39ad4e7a1bfdc9fb142bfdc583ebed6a",
 "assets/assets/images/rabbit.png": "d1813b276733b3bb5ba5ab93fd6024aa",
 "assets/assets/images/astronaut.png": "05987a478245230348a64d7565679c0c",
